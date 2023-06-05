@@ -30,9 +30,7 @@ int i=1,n,array1[],array2[],array3[],k=0,j=0,m=0;
 			{
 			array3[m]=n;
 			m++;
-			}
-			
-			
+			}			
 		i++;
 	}
 	System.out.println("ARRAY1");
