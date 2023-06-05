@@ -2,7 +2,6 @@ package day2;
 import java.util.Scanner;
 public class Array 
 {
-
 	public static void main(String[] args) 
 	{ 
 	Scanner in=new Scanner(System.in);
@@ -53,14 +52,3 @@ int i=1,n,array1[],array2[],array3[],k=0,j=0,m=0;
 	}
 	}
 }
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
