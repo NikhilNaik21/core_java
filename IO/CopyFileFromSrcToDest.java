@@ -42,7 +42,6 @@ public class CopyFileFromSrcToDest {
 			{
 				bout.write(arr , 0, count);
 			}
-				
 		}
 		catch(IOException e)
 		{
